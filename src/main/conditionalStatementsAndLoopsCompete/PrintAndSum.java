@@ -1,4 +1,4 @@
-package main;
+package main.conditionalStatementsAndLoopsCompete;
 
 import java.util.Scanner;
 public class PrintAndSum {

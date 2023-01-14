@@ -1,8 +1,8 @@
-package main;
+package main.basicSyntaxConditionalStatementsAndLoopsLab;
 
 import java.util.Scanner;
 
-public class Lab01TheatrePromotions {
+public class TheatrePromotions {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String day = scanner.nextLine();

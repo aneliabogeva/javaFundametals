@@ -1,4 +1,4 @@
-package main;
+package main.basicSyntaxConditionalStatementsAndLoopsLab;
 
 import java.util.Scanner;
 public class StudentInformation {

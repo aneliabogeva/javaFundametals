@@ -1,8 +1,8 @@
-package main;
+package main.basicSyntaxConditionalStatementsAndLoopsLab;
 
 import java.util.Scanner;
 
-public class Passed {
+public class PassedOrFailed {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double grade = Double.parseDouble(scanner.nextLine());

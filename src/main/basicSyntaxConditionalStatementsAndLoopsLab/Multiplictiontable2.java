@@ -1,8 +1,8 @@
-package main;
+package main.basicSyntaxConditionalStatementsAndLoopsLab;
 
 import java.util.Scanner;
 
-public class Lab01Multiplictiontable2 {
+public class Multiplictiontable2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n1 = Integer.parseInt(scanner.nextLine());
