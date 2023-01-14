@@ -1,7 +1,7 @@
 package main;
 
 import java.util.Scanner;
-public class Lab01MonthPrinter {
+public class MonthPrinter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int month = Integer.parseInt(scanner.nextLine());

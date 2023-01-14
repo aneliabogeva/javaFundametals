@@ -2,7 +2,7 @@ package main;
 
 import java.util.Scanner;
 
-public class Lab01BackIn30Min {
+public class BackIn30Min {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int hours = Integer.parseInt(scanner.nextLine());
