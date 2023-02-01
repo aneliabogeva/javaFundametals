@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: darkred;
+}
+p {
+    font-family: Helvetica, serif;
+    font-size: 23px;
+}
+p.blueParagraph{
+    color:  blueviolet;
+}
+p.somethingElseParagraph {
+    color: chartreuse;
+}
